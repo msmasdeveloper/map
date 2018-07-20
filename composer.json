@@ -1,0 +1,19 @@
+{
+    "name": "masdeveloper/map",
+    "description": "paket untuk percobaan map",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Masdeveloper",
+            "email": "ms.masdeveloper@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+		"psr-4": {
+			"Gigilu\\": "src/"
+		}
+	}
+}
